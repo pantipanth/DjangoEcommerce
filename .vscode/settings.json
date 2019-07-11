@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.pythonPath": "env_firstsite\\Scripts\\python.exe",
+    "python.linting.pylamaEnabled": true
+}
